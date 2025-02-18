@@ -1,4 +1,4 @@
-# OBMS 2024 LaTeX Template
+# OBMS LaTeX Template
 
 This repository contains a LaTeX template for [OBMS](https://batterymodel.ox.ac.uk/) abstracts. It provides a structure and formatting guidelines to help authors prepare their submissions. You can download templates and edit them locally for submission, or alternatively, you can directly access the templates on overleaf ([invited speakers only](https://www.overleaf.com/project/6568663705ec75b1d0b36863) or [poster abstracts](https://www.overleaf.com/read/fgzmmqvkspym#ba387a)), then submit the pdf file.
 
